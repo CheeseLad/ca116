@@ -1,0 +1,8 @@
+1:
+
+p = "-e-"
+w = "hey"
+
+2:
+
+If the inputs are the same length and the characters of p and w are matching at the same position, or the character in p is "-", then "yes" is printed, otherwise "no" is printed.
